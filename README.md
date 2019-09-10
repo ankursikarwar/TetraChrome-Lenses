@@ -1,8 +1,8 @@
 # TetraChrome Lenses: Smart Glasses for Visually Impaired People
 
+<br>
+<br>
 
-<br>
-<br>
 ![TetraChrome Lenses](https://drive.google.com/uc?id=1-nSVDjGjqTAFR0CwkxBnScoYO84j4KhF)
 
 ## Prerequisites
