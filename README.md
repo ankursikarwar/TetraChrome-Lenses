@@ -1,7 +1,9 @@
 # TetraChrome Lenses
 
 Smart Glasses for Visually Impaired People
-
+<br>
+<br>
+![TetraChrome Lenses](https://drive.google.com/uc?id=1-nSVDjGjqTAFR0CwkxBnScoYO84j4KhF)
 
 ## Prerequisites
 
@@ -55,19 +57,19 @@ source venv/bin/activate
 5. Clone the Repo
 
 ```
-git clone https://github.com/ankursikarwar/TetraChrome-Lenses.git
+(venv) git clone https://github.com/ankursikarwar/TetraChrome-Lenses.git
 ```
 
 6. Navigate to the sub-folder
 
 ```
-cd TetraChrome-Lenses
+(venv) cd TetraChrome-Lenses
 ```
 
 7. Install the dependencies
 
 ```
-pip install -r requirements.txt
+(venv) pip install -r requirements.txt
 ```
 
 ## Starting the Application 
@@ -75,6 +77,6 @@ pip install -r requirements.txt
 Attach the USB camera and run main.py
 
 ```
-python main.py
+(venv) python main.py
 ```
 
