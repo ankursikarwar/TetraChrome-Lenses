@@ -2,6 +2,7 @@
 
 Smart Glasses for Visually Impaired People
 
+
 ## Prerequisites
 
 1. Raspberry Pi 3B+
@@ -60,7 +61,7 @@ git clone https://github.com/ankursikarwar/TetraChrome-Lenses.git
 6. Navigate to the sub-folder
 
 ```
-cd TetraChrom-Lenses
+cd TetraChrome-Lenses
 ```
 
 7. Install the dependencies
