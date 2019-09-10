@@ -54,7 +54,7 @@ source venv/bin/activate
 5. Clone the Repo
 
 ```
-git clone 
+git clone https://github.com/ankursikarwar/TetraChrome-Lenses.git
 ```
 
 6. Navigate to the sub-folder
