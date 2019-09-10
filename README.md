@@ -1,7 +1,6 @@
 # TetraChrome Lenses: Smart Glasses for Visually Impaired People
 
-<br>
-<br>
+
 TetraChrome Lenses is a portable, robust and efficient device capable of assisting a visually impaired person in a seamless manner. The device integrates different technologies like computer vision, embedded systems, and text-to-speech to create a powerful personal assistant for the blind. It generates audio cues and haptic feedback for helping the blind person to perceive and interact with the surrounding.
 <br>
 <br>
@@ -10,6 +9,7 @@ TetraChrome Lenses is a portable, robust and efficient device capable of assisti
 
 <br>
 <br>
+
 ## Prerequisites
 
 1. Raspberry Pi 3B+
