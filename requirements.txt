@@ -1,0 +1,8 @@
+certifi==2019.6.16
+chardet==3.0.4
+cognitive-face==1.5.0
+idna==2.8
+pygame==1.9.6
+requests==2.22.0
+RPi.GPIO==0.7.0
+urllib3==1.25.3
