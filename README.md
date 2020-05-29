@@ -12,6 +12,10 @@ TetraChrome Lenses is a portable, robust and efficient device capable of assisti
 <br>
 <br>
 
+[![Watch the video]()](https://youtu.be/W5EXZC6d-sY)
+
+<br>
+
 ## Prerequisites
 
 1. Raspberry Pi 3B+
