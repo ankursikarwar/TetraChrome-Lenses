@@ -5,4 +5,4 @@ idna==2.8
 pygame==1.9.6
 requests==2.22.0
 RPi.GPIO==0.7.0
-urllib3==1.25.3
+urllib3==1.26.5
