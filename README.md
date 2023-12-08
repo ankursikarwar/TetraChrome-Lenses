@@ -5,7 +5,7 @@ TetraChrome Lenses is a portable, robust and efficient device capable of assisti
 <br>
 <br>
 
-<img src="https://drive.google.com/uc?id=1-nSVDjGjqTAFR0CwkxBnScoYO84j4KhF" alt="Image4" width="500" height="400"/>     
+<img src="https://drive.google.com/uc?id=1-nSVDjGjqTAFR0CwkxBnScoYO84j4KhF" alt="Image3" width="500" height="400"/>     
 <br>
 <img src="https://drive.google.com/uc?id=102709c1dePEORxNlqz3pIIVObpDHAQ6x" alt="Image4" width="500" height="400"/> 
 
