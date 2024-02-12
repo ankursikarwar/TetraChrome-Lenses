@@ -1,7 +1,7 @@
 # TetraChrome Lenses: Smart Glasses for Visually Impaired People
 
 
-TetraChrome Lenses is a portable, robust and efficient device capable of assisting a visually impaired person in a seamless manner. The device integrates different technologies like computer vision, embedded systems, and text-to-speech to create a powerful personal assistant for the blind. It generates audio cues and haptic feedback for helping the blind person to perceive and interact with the surrounding.
+TetraChrome Lenses is a wearable device capable of assisting a visually impaired person in a seamless manner. It generates audio cues and haptic feedback based on the visual information around the user.
 <br>
 <br>
 
